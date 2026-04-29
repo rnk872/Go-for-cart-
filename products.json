@@ -1,0 +1,29 @@
+[
+  {"id":1,"name":"Rice","price":50,"category":"ration"},
+  {"id":2,"name":"Wheat","price":40,"category":"ration"},
+  {"id":3,"name":"Sugar","price":45,"category":"ration"},
+  {"id":4,"name":"Salt","price":20,"category":"ration"},
+  {"id":5,"name":"Oil","price":120,"category":"ration"},
+  {"id":6,"name":"Dal","price":80,"category":"ration"},
+  {"id":7,"name":"Soap","price":35,"category":"ration"},
+  {"id":8,"name":"Shampoo","price":90,"category":"ration"},
+  {"id":9,"name":"Toothpaste","price":60,"category":"ration"},
+  {"id":10,"name":"Brush","price":25,"category":"ration"},
+
+  {"id":11,"name":"Notebook","price":60,"category":"stationery"},
+  {"id":12,"name":"Pen","price":10,"category":"stationery"},
+  {"id":13,"name":"Pencil","price":5,"category":"stationery"},
+  {"id":14,"name":"Eraser","price":3,"category":"stationery"},
+  {"id":15,"name":"Scale","price":15,"category":"stationery"},
+  {"id":16,"name":"Marker","price":20,"category":"stationery"},
+  {"id":17,"name":"Glue","price":30,"category":"stationery"},
+  {"id":18,"name":"File","price":50,"category":"stationery"},
+
+  {"id":19,"name":"Chips","price":20,"category":"snacks"},
+  {"id":20,"name":"Biscuits","price":30,"category":"snacks"},
+  {"id":21,"name":"Chocolate","price":50,"category":"snacks"},
+  {"id":22,"name":"Namkeen","price":25,"category":"snacks"},
+  {"id":23,"name":"Cold Drink","price":40,"category":"snacks"},
+  {"id":24,"name":"Juice","price":35,"category":"snacks"},
+  {"id":25,"name":"Cake","price":100,"category":"snacks"}
+]
