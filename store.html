@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>RNK Store</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+  <h2>RNK Store</h2>
+  <input type="text" id="search" placeholder="Search products...">
+  
+  <button onclick="location.href='cart.html'">🛒 Cart</button>
+  <button onclick="location.href='tracking.html'">Track</button>
+</header>
+
+<!-- CATEGORY BUTTONS -->
+<div class="categories">
+  <button onclick="filterCategory('all')">All</button>
+  <button onclick="filterCategory('ration')">🍚 Ration</button>
+  <button onclick="filterCategory('stationery')">📘 Stationery</button>
+  <button onclick="filterCategory('snacks')">🍫 Snacks</button>
+</div>
+
+<!-- PRODUCTS -->
+<div id="products"></div>
+
+<script src="script.js"></script>
+</body>
+</html>
